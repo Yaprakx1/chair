@@ -1,0 +1,46 @@
+{
+    "todos":[
+        
+            {
+                "id": 1685102323094,
+                "text": "markete git",
+                "isDone": false,
+                "date": "2023-05-26T11:58:43.094Z"
+            },
+            {
+                "id": 1685102338845,
+                "text": "ödevleri tamamla",
+                "isDone": false,
+                "date": "2023-05-26T11:58:58.845Z"
+            },
+            {
+                "id": 1685102357076,
+                "text": "faturaları kontrol et",
+                "isDone": false,
+                "date": "2023-05-26T11:59:17.076Z"
+            },
+            {
+                "id": 1685102323095,
+                "text": "alışveriş yap",
+                "isDone": false,
+                "date": "2023-05-27T15:30:00.000Z"
+                },
+                
+                {
+                "id": 1685102323096,
+                "text": "eczane yolunu bul",
+                "isDone": false,
+                "date": "2023-05-28T10:00:00.000Z"
+                },
+                
+                {
+                "id": 1685102323097,
+                "text": "toplu taşıma kartı al",
+                "isDone": false,
+                "date": "2023-05-29T14:45:00.000Z"
+                }
+        ]
+    
+
+    
+}
